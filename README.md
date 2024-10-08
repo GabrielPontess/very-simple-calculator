@@ -1,24 +1,26 @@
-# Simple Calculator
+# Simple Calculator 🦥
 
-## Description
+## Description 🌭
 
 This is a simple calculator application built as part of the Dio Challenger training for React developers. The purpose of this project is to help beginners understand the basics of React, including components, state management, and event handling.
 
 The calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division. It provides a user-friendly interface where users can input numbers and see the results of their calculations instantly.
 
-## Features
+![image](./public/certification.jpg)
+
+## Features 🌭
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division
 - Clear button to reset the calculator
 - Responsive design for mobile and desktop use
 
-## Technologies Used
+## Technologies Used 🌭
 
 - React
 - JavaScript
 - CSS
 
-## Getting Started
+## Getting Started 🌭
 
 To run this project locally, follow these steps:
 
@@ -26,7 +28,7 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/simple-calculator.git
 
-## Available Scripts
+## Available Scripts 🌭
 
 In the project directory, you can run:
 
